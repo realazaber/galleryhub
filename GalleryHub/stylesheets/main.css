@@ -1,0 +1,35 @@
+body 
+{
+    background-color: #6C757D;
+}
+
+input
+{
+    width: 250px;
+    height: 30px;
+}
+
+hr
+{
+    border-top: 3px solid white;
+    width: 800px;
+    border-radius: 50px;
+}
+
+.carousel_img
+{
+    background-color: #fff;
+    width: 600px;
+    height: 400px;
+}
+
+.gallery_img
+{
+    width: 400px;
+    height: 250px;
+}
+
+.user_details
+{
+    border: 2px solid white;
+}
